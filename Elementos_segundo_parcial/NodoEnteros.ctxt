@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NodoEnteros
+comment1.params=
+comment1.target=NodoEnteros()
+comment2.params=valor
+comment2.target=NodoEnteros(int)
+comment3.params=
+comment3.target=int\ getValor()
+comment4.params=
+comment4.target=NodoEnteros\ getSiguiente()
+comment5.params=valor
+comment5.target=void\ setValor(int)
+comment6.params=siguiente
+comment6.target=void\ setSiguiente(NodoEnteros)
+numComments=7
