@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=
+comment1.target=Tree()
+comment2.params=data
+comment2.target=Tree(java.lang.Object)
+comment3.params=data
+comment3.target=void\ addChild(java.lang.Object)
+comment4.params=nuevoHijo
+comment4.target=void\ addChild(Tree)
+numComments=5
